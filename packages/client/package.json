@@ -1,0 +1,11 @@
+{
+  "name": "my-frame",
+  "version": "0.1.0",
+  "description": "",
+  "keywords": [],
+  "scripts": {
+    "build": ""
+  },
+  "author": "Seafarer-C",
+  "license": "ISC"
+}
